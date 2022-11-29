@@ -10,7 +10,6 @@
     <maven.compiler.target>18</maven.compiler.target>
 		<!-- <maven.compiler.release>18</maven.compiler.release>-->
 	</properties>
-  
   <dependencies>
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 		<dependency>
